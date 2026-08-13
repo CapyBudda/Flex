@@ -174,7 +174,7 @@ a {
 
 @font-face {
   font-family: 'Poppins'; /* Название для использования в CSS */
-  src: url('/fonts/Poppins-Regular.woff2') format('woff2'); /* Путь к файлу */
+  src: url('fonts/Poppins-Regular.woff2') format('woff2'); /* Путь к файлу */
   font-weight: normal; /* Начертание (обычный, жирный и т.д.) */
   font-style: normal;  /* Стиль (прямой или курсив) */
 }
@@ -214,7 +214,7 @@ a {
 }
 
 .lol {
-    background-image: url('/image/back-image.png'); /* Путь к вашему фото */
+    background-image: url('image/back-image.png'); /* Путь к вашему фото */
     background-size: cover; /* Растягивает фото на весь экран с сохранением пропорций */
     background-position: center; /* Центрирует картинку */
     background-repeat: no-repeat; /* Запрещает размножение (повтор) картинки */
@@ -845,7 +845,7 @@ a {
 }
 
 .numbers__back {
-    background-image: url(/image/number-back-image.png);
+    background-image: url(image/number-back-image.png);
     background-position: center; /* Центрирует картинку */
     background-repeat: no-repeat; /* Запрещает размножение (повтор) картинки */
     background-attachment: fixed; /* Фиксирует фон при прокрутке страницы */ 
@@ -1121,7 +1121,7 @@ a {
 }
 
 .footer__back {
-    background-image: url(/image/footer-back.png);
+    background-image: url(image/footer-back.png);
     background-position: center; /* Центрирует картинку */
     background-repeat: no-repeat; /* Запрещает размножение (повтор) картинки */
     background-attachment: fixed; /* Фиксирует фон при прокрутке страницы */ 
