@@ -901,6 +901,7 @@ a {
     padding-top: 107px;
     grid-template-columns: 554px 554px;
     justify-content: center;
+    gap: 32px;
 }
 
 
